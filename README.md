@@ -39,7 +39,7 @@ CrystalGen combines modern deep learning techniques with materials science tools
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Sadhvini26/CrystalGen.git
+git clone https://github.com/abhigna-sree/CrystalGen.git
 cd CrystalGenProject-master
 ```
 
