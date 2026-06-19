@@ -30,29 +30,7 @@ CrystalGen combines modern deep learning techniques with materials science tools
 ---
 
 ## 📁 Project Structure
-
-```text
-CrystalGen/
-│
-├── model/
-│   ├── app.py
-│   ├── models/
-│   ├── dataset/
-│   └── trained_models/
-│
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── assets/
-│
-├── templates/
-│   ├── index.html
-│   ├── results.html
-│   └── metrics.html
-│
-├── requirements.txt
-└── README.md
-```
+<img width="266" height="717" alt="510673558-c61a8c5f-e502-4925-bd18-b0011ce574d3" src="https://github.com/user-attachments/assets/885cfcf0-7ada-4352-ae91-da0a50157aa5" />
 
 ---
 
